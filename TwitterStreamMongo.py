@@ -17,10 +17,10 @@ keywords = ['#Tmobile', '#Sprint']
 language = ['en']
 
 # put in your info from twitter developer portal
-consumer_key = "zppuSEuJvADzNZkuyLXFYHcfI"
-consumer_secret = "MbKLdXcyO6VxlSI48RevRllbEcDL4q5pKmd7bAqTtIzaEoAFNT"
-access_token = "2225305578-utWNR1Fgr1nHqNJXYsU8UKFhpyAdya3Tg4chLOZ"
-access_token_secret = "cPXG4OrkUPQQb1sQTDTF0dMbSH797UJ0ZGKfZFOphNSRQ"
+consumer_key = "key"
+consumer_secret = "key"
+access_token = "key"
+access_token_secret = "key"
 
 # gets Tweets from the stream and store only the important fields to your database
 class StdOutListener(StreamListener):
